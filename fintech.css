@@ -1,0 +1,28 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.card {
+    border: none;
+}
+
+.card-title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.eye-icon {
+    position: absolute;
+    right: 10px;
+    top: calc(50% - 12px);
+    cursor: pointer;
+}
+
+.social-login .btn {
+    margin: 0 5px;
+}
+
+.social-icon {
+    width: 20px;
+    height: 20px;
+}
